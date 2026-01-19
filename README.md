@@ -8,7 +8,7 @@ Ejercicios y prácticas de Java.
 Modelado, consultas, scripts y ejercicios.
 ➡️ [Entrar](./02-bases-de-datos-sql)
 
-## 3. Diseño Web [Entrar](./03-lenguaje-de-marcas)
+## 3. [Diseño Web ](./03-lenguaje-de-marcas)
 
 Prácticas de HTML, CSS, JavaScript…
 ➡️ [Entrar](./03-lenguaje-de-marcas)
