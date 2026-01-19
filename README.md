@@ -6,7 +6,7 @@ Ejercicios y prácticas de Java.
 ## [2. Bases de Datos (SQL)](./02-bases-de-datos-sql/README.md)
 Modelado, consultas, scripts y ejercicios.
 
-## [3. Diseño Web ](./03-lenguaje-de-marcas)
+## [3. Diseño Web ](./03-diseño-web)
 
 Prácticas de HTML, CSS, JavaScript…
 
