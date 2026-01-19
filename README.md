@@ -3,7 +3,7 @@
 ## [1. Programación (Java)](./01-programacion-java)
 Ejercicios y prácticas de Java.
 
-## [2. Bases de Datos (SQL)](./02-bases-de-datos-sql)
+## [2. Bases de Datos (SQL)](./02-bases-de-datos-sql/README.md)
 Modelado, consultas, scripts y ejercicios.
 
 ## [3. Diseño Web ](./03-lenguaje-de-marcas)
