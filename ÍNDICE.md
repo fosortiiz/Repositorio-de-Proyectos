@@ -1,6 +1,4 @@
-## Repositorio de proyectos y ejercicios desarrollados durante mi formación en Desarrollo de Aplicaciones Web (DAW), enfocados en Java, SQL, HTML y CSS. Utilizado como portfolio para prácticas profesionales.
-
-Se irá añadiendo contenido progresivamente
+## Repositorio de proyectos y ejercicios desarrollados durante mi formación en Desarrollo de Aplicaciones Web (DAW), enfocados en Java, SQL, HTML y CSS. Utilizado como portfolio para prácticas profesionales. *Se irá añadiendo contenido progresivamente*
 
 ## [1. Programación (Java)](./01-programacion-java)
 Ejercicios y prácticas de Java.
